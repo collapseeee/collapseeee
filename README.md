@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm collapseeee! 👋  
 
-<!--
-**collapseeee/collapseeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering (International Program) student at Chiang Mai University**. I enjoy working on projects that solve real-world problems and constantly strive to improve my coding skills.  
 
-Here are some ideas to get you started:
+## 🚀 My previous projects:  
+- **CMU Second Hand Shopping App** – A trustable marketplace application for CMU students and staffs, built with Thunkable. (Contributed in Mapping Features includes Real-time location, and Map Pinpoint for buyer and seller side. Reviewing Features)
+- **Portfolio Website for University Application** – A website that presents my biography and awards earned during Highschool. (Using Bootstrap framework for responsive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My on-going projects:  
+- **Java Sudoku** - A sudoku game implemented using Java that is Playable on Terminal.
+- **Python Binary Encryptor** - A Binary encryptor implemented using Python from any Base number to Binary.
+
+## 🔧 Tech & Tools:  
+- **Languages:** Java, Python, HTML, CSS
+- **Frameworks & Tools:** Terminal, VSCode, IntelliJ, Git, Bootstrap
+- **OS:** Window, macOS  
+
+## 📖 Learning & Interests:  
+- Preferred Languages: Thai (Native), English (Upper B2)
+- Studying **Chinese, JavaScript, SQL**  
+- Exploring **Cyber Security**  
+- Interested in working as **Software Engineer**  
+
+## 📫 Let's connect!  
+- GitHub: [collapseeee](https://github.com/collapseeee)  
+- LinkedIn: *(?)*  
