@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3 align="center">🎓 Software Engineering Student at College of Arts, Media and Technology (Chiang Mai University)<br>💻 Passionate about coding and project development<br>🌱 Constantly learning and improving my skills</h3>
+🎓 Software Engineering Student at College of Arts, Media and Technology (Chiang Mai University)<br>💻 Passionate about coding and project development<br>🌱 Constantly learning and improving my skills
 
 
 ## 🌐 Socials:
