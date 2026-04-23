@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Software Engineering Student at the International Program, College of Arts, Media and Technology (CAMT), Chiang Mai University.<br><br>🏫 Undergraduate Teaching Assistant for Intro to Software Engineering and Abstract Data Types.<br><br>🏆 Academic Excellence Scholar with a focus on Software Testing and Systems Research.<br><br>🎮 Hobbies: Dedicated to academic and playing games.
+🎓 Software Engineering Student at the International Program, College of Arts, Media and Technology (CAMT), Chiang Mai University.<br><br>🏫 Undergraduate Teaching Assistant for Intro to Software Engineering and Abstract Data Types.<br><br>🏆 Academic Excellence Scholar.<br><br>🎮 Hobbies: Dedicated to academic and playing games.
 
 
 ## 🌐 Socials:
